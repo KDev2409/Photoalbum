@@ -20,7 +20,7 @@ This project leverages AWS services to create a website capable of displaying a 
    
 5. Enhance the security posture of your infrastructure by implementing an additional layer of protection. Apply a Network Access Control List (NACL) to the public-facing subnet housing your web server, fortifying it against unauthorized access attempts.
 
-###Useful commands
+### Useful commands
 
 Once the AWS environment is fully configured:
 
